@@ -1,7 +1,5 @@
 # Recursion and Iteration Example in Dart
 
-Recursion and Iteration Example in Dart
-
 This webpage was created using Flutter to complete Prof. Ekoji challenge on Ekoji Channel
 
 
