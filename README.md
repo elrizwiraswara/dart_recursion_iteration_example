@@ -4,7 +4,9 @@ This webpage was created using Flutter to complete Prof. Ekoji challenge on Ekoj
 
 
 Demo Link : 
-http://dmiteam.000webhostapp.com
+http://www.elrizwiraswara.com/apps/dartreciter
+
+![screenshoot](https://github.com/elrizwiraswara/dart_recursion_iteration_example/blob/master/Screen%20Shot%202022-08-30%20at%2011.37.53.png)
 
 
 Elriz Wiraswara • Didit Abdianto • Ranny Nirmala
