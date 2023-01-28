@@ -7,6 +7,3 @@ This webpage was created using Flutter to complete Prof. Ekoji challenge on Ekoj
 
 
 Elriz Wiraswara • Didit Abdianto • Ranny Nirmala
-
-STMIK Dumai
-www.stmikdumai.ac.id
